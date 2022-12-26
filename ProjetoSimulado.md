@@ -1,1 +1,1 @@
-Esse arquivo terá um futuro código!
+Esse arquivo terá um código no futuro!
